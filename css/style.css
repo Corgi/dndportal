@@ -1,0 +1,47 @@
+body {
+  font-family:"times new roman";
+}
+
+.portals {
+  width:80%;
+  margin:auto;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  text-align:center;
+}
+
+.portal {
+  margin-top: 1rem;
+}
+
+.portal-img {
+  display:block;
+  text-align: center;
+  width:100%;
+  height:160px;
+}
+
+a {
+  font-family:"courier new";
+  text-transform:uppercase;
+  font-weight:800;
+}
+
+h4 {
+  margin-bottom:0;
+}
+
+tr:nth-child(even) {
+  background: #f3f3f3;
+}
+
+.footer {
+  margin-top:2em;
+  font-size:1.2rem;
+  text-align:center;
+}
+
+
+#ua-table {
+  margin-top:2em;
+}
